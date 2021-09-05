@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=novasush)
 
 
-- 🔭 Co-founder at [Nsemble.ai](https://nsemble.ai/)
+- 🔭 Software Engineer
 
 - 🌱 Delivering Computer Vision API's (AIaaS)
 
