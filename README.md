@@ -8,9 +8,7 @@
 
 - 🌱 Delivering Computer Vision API's (AIaaS)
 
-- 👨‍💻 Tech Blogger [Medium](https://medium.com/@novasush)
-
-- 📫 Feel free to reach me **sushrut@nsemble.ai**
+- 👨‍💻 Tech Blogger [Medium](https://novasush.medium.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
