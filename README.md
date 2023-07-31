@@ -3,10 +3,12 @@
 
 ![](https://komarev.com/ghpvc/?username=novasush)
 
+My web portfolio: [novasush](https://novasush.com)
+
 
 - 🔭 Software Engineer
 
-- 🌱 Delivering Computer Vision API's (AIaaS)
+- 🌱 Delivering Computer Vision APIs (AIaaS)
 
 - 👨‍💻 Tech Blogger [Medium](https://novasush.medium.com)
 
